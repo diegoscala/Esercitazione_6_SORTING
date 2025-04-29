@@ -1,0 +1,8 @@
+/home/appuser/Data/Esercit6/Exercise2/release/CMakeFiles/Sorting2.dir
+/home/appuser/Data/Esercit6/Exercise2/release/CMakeFiles/Sorting2_TEST.dir
+/home/appuser/Data/Esercit6/Exercise2/release/CMakeFiles/edit_cache.dir
+/home/appuser/Data/Esercit6/Exercise2/release/CMakeFiles/rebuild_cache.dir
+/home/appuser/Data/Esercit6/Exercise2/release/src/CMakeFiles/edit_cache.dir
+/home/appuser/Data/Esercit6/Exercise2/release/src/CMakeFiles/rebuild_cache.dir
+/home/appuser/Data/Esercit6/Exercise2/release/src_test/CMakeFiles/edit_cache.dir
+/home/appuser/Data/Esercit6/Exercise2/release/src_test/CMakeFiles/rebuild_cache.dir
